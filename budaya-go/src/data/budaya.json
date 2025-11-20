@@ -1,0 +1,586 @@
+{
+  "Aceh": {
+    "nama": "Aceh",
+    "info": { "TarianTradisional": ["Tari Saman", "Tari Ratoh Jaroe", "Tari Seudati"], "CiriKhasLain": ["Masjid Raya Baiturrahman", "Suku Aceh", "Rumah Adat Krong Bade"] },
+    "KotaKabupaten": [
+      {"nama" : "Banda Aceh",
+        "deskripsi": "Ibu kota Aceh, pusat kebudayaan dan pemerintahan, yang memiliki sejarah kuat terkait bencana Tsunami 2004. Kota ini kaya akan nilai sejarah dan religi.",
+        "wisata": [
+          "Masjid Raya Baiturrahman",
+          "Museum Tsunami Aceh",
+          "Kapal Apung PLTD Apung",
+          "Pantai Ulee Lheue"
+        ]
+      }, 
+      {"nama" : "Sabang",
+        "deskripsi": "Kota di Pulau Weh, terkenal sebagai titik paling barat Indonesia (Km 0). Sabang adalah destinasi unggulan untuk menyelam dan menikmati keindahan bawah laut.",
+        "wisata": [
+          "Tugu Nol Kilometer Indonesia",
+          "Pantai Iboih",
+          "Pulau Rubiah"
+        ]
+      },
+      {"nama" : "Lhokseumawe",
+        "deskripsi": "Lhokseumawe adalah kota strategis yang terletak di jalur timur Sumatera, dahulu dikenal sebagai 'Petrodollar' karena merupakan pusat industri gas alam cair (LNG) di Indonesia.",
+        "wisata": [
+          "Pantai Ujong Blang",
+          "Waduk Jeulikat",
+          "Masjid Islamic Center Lhokseumawe"
+        ]
+      },
+      {"nama" : "Aceh Besar",
+        "deskripsi": "Kabupaten yang mengelilingi Banda Aceh, terkenal dengan kawasan pesisir yang indah, pegunungan yang sejuk, dan situs sejarah kerajaan Lamuri.",
+        "wisata": [
+          "Pantai Lhoknga",
+          "Pulo Aceh",
+          "Gunung Seulawah Agam"
+        ]
+      },
+      {"nama" : "Aceh Utara",
+        "deskripsi": "Merupakan salah satu kabupaten terpadat di Aceh, dikenal sebagai kawasan industri besar pada masa jayanya, khususnya di sektor gas alam, dan memiliki pelabuhan utama.",
+        "wisata": [
+          "Pantai Ujong Blang",
+          "Air Terjun Blang Kulam",
+          "Bukit Goa Jepang"
+        ]
+      },
+      {
+        "nama": "Aceh Tengah",
+        "deskripsi": "Kabupaten yang terletak di dataran tinggi Gayo, terkenal sebagai produsen utama Kopi Arabika Gayo yang sangat berkualitas. Wilayahnya didominasi oleh perbukitan hijau dan sejuk.",
+        "wisata": [
+          "Danau Laut Tawar",
+          "Arung Jeram Lukup Badak",
+          "Pantan Terong (spot melihat Danau)"
+        ]
+      }        
+    ]
+  },
+
+  "SumateraUtara": {
+    "nama": "Sumatera Utara",
+    "info": { "TarianTradisional": ["Tari Tor Tor", "Tari Serampang Dua Belas", "Tari Baluse"], "CiriKhasLain": ["Danau Toba", "Suku Batak", "Rumah Bolon", "Ulos"] },
+    "KotaKabupaten": [
+      {"nama" : "Medan",
+        "deskripsi": "Ibu kota Sumatera Utara dan kota terbesar ketiga di Indonesia, merupakan pusat perdagangan, keuangan, dan industri utama di wilayah Sumatera bagian utara.",
+        "wisata": [
+          "Istana Maimun",
+          "Masjid Raya Al Mashun",
+          "Maha Vihara Maitreya",
+          "Rumah Tjong A Fie"
+        ]
+      }, 
+      {"nama" : "Pematangsiantar",
+        "deskripsi": "Kota terbesar kedua di Sumatera Utara, terletak di jalur strategis antara Medan dan Danau Toba. Dikenal dengan sebutan 'Kota Paten' dan sejarah perkebunan teh/karet.",
+        "wisata": [
+          "Taman Hewan Pematangsiantar",
+          "Vihara Avalokitesvara",
+          "Museum Simalungun"
+        ]
+      }, 
+      {"nama" : "Binjai",
+        "deskripsi": "Binjai adalah kota yang terletak sekitar 20 km di sebelah barat Kota Medan, dikenal sebagai salah satu kota satelit yang strategis dan memiliki sejarah panjang dalam perkebunan.",
+        "wisata": [
+          "Taman Selfie Binjai",
+          "Kolam Abadi",
+          "Masjid Agung Binjai"
+        ]
+      }, 
+      {"nama" : "Deli Serdang",
+        "deskripsi": "Kabupaten yang mengelilingi Kota Medan, menjadi gerbang masuk utama melalui Bandara Internasional Kualanamu dan memiliki banyak kawasan perkebunan.",
+        "wisata": [
+          "Bandara Kualanamu (KNIA)",
+          "Air Terjun Telaga Biru",
+          "Taman Alam Lumbini"
+        ]
+      }, 
+      {"nama" : "Samosir",
+        "deskripsi": "Kabupaten yang seluruh wilayahnya merupakan pulau di tengah Danau Toba, menjadi pusat budaya Batak Toba dan destinasi wisata alam serta sejarah yang populer.",
+        "wisata": [
+          "Danau Toba",
+          "Desa Tomok (Makam Raja Sidabutar)",
+          "Pusuk Buhit"
+        ]
+      }
+    ]
+  },
+
+  "SumateraBarat": {
+    "nama": "Sumatera Barat",
+    "info": {
+    "TarianTradisional": ["Tari Piring", "Tari Payung", "Tari Indang"], "CiriKhasLain": ["Suku Minangkabau", "Rumah Gadang", "Masakan Padang/Rendang", "Adat Matrilineal"]},
+    "KotaKabupaten": [
+      {
+        "nama": "Padang",
+        "deskripsi": "Ibu kota Provinsi Sumatera Barat dan kota terbesar di pantai barat Sumatera. Padang adalah pusat perdagangan, pendidikan, dan gerbang utama menuju wilayah Minangkabau.",
+        "wisata": [
+          "Pantai Padang",
+          "Masjid Raya Sumatera Barat",
+          "Museum Adityawarman",
+          "Siti Nurbaya Bridge"
+        ]
+      },
+      {
+        "nama": "Bukittinggi",
+        "deskripsi": "Kota yang terletak di dataran tinggi Minangkabau, terkenal dengan udara sejuk, destinasi sejarah, dan pemandangan alam Ngarai Sianok yang menakjubkan.",
+        "wisata": [
+          "Jam Gadang",
+          "Ngarai Sianok",
+          "Lubang Jepang",
+          "Kebun Binatang Kinantan"
+        ]
+      },
+      {
+        "nama": "Padang Panjang",
+        "deskripsi": "Kota kecil yang berada di lembah Bukit Barisan, dikenal sebagai pusat kesenian dan budaya Minangkabau, serta lokasi Institut Seni Indonesia (ISI) Padang Panjang.",
+        "wisata": [
+          "Pusat Dokumentasi dan Informasi Kebudayaan Minangkabau (PDIKM)",
+          "Air Terjun Lembah Anai"
+        ]
+      },
+      {
+        "nama": "Pariaman",
+        "deskripsi": "Kota pesisir di tepi Samudra Hindia, terkenal dengan tradisi Tabuik, yaitu upacara peringatan wafatnya cucu Nabi Muhammad yang diselenggarakan setiap tahun.",
+        "wisata": [
+          "Pulau Angso Duo",
+          "Pantai Gondoriah",
+          "Tugu Tabuik"
+        ]
+      }
+    ]
+  },
+  
+  "Riau": {
+    "nama": "Riau",
+    "info": { "TarianTradisional": ["Tari Zapin"], "CiriKhasLain": ["Istana Siak"] },
+    "KotaKabupaten": [
+      {"nama" : "Pekanbaru"}, 
+      {"nama" : "Dumai"}, 
+      {"nama" : "Bengkalis"}, 
+      {"nama" : "Kampar"}, 
+      {"nama" : "Indragiri Hilir"}
+    ]
+  },
+  "KepulauanRiau": {
+    "nama": "Kepulauan Riau",
+    "info": { "TarianTradisional": ["Tari Zapin"], "CiriKhasLain": ["Jembatan Barelang"] },
+    "KotaKabupaten": [
+      {"nama" : "Tanjungpinang"}, 
+      {"nama" : "Batam"}, 
+      {"nama" : "Bintan"}, 
+      {"nama" : "Karimun"}, 
+      {"nama" : "Natuna"}
+    ]
+  },
+  "Jambi": {
+    "nama": "Jambi",
+    "info": { "TarianTradisional": ["Tari Sekapur Sirih"], "CiriKhasLain": ["Candi Muaro Jambi"] },
+    "KotaKabupaten": [
+      {"nama" : "Jambi"}, 
+      {"nama" : "Sungai Penuh"}, 
+      {"nama" : "Muarojambi"}, 
+      {"nama" : "Kerinci"}, 
+      {"nama" : "Sarolangun"}
+    ]
+  },
+  "SumateraSelatan": {
+    "nama": "Sumatera Selatan",
+    "info": { "TarianTradisional": ["Tari Tanggai"], "CiriKhasLain": ["Jembatan Ampera"] },
+    "KotaKabupaten": [
+      {"nama" : "Palembang"}, 
+      {"nama" : "Prabumulih"}, 
+      {"nama" : "Musi Banyuasin"},
+      {"nama" : "Ogan Komering Ilir"}, 
+      {"nama" : "Banyuasin"}
+    ]
+  },
+  "Bengkulu": {
+    "nama": "Bengkulu",
+    "info": { "TarianTradisional": ["Tari Andun"], "CiriKhasLain": ["Rumah Pengasingan Bung Karno"] },
+    "KotaKabupaten": [
+      {"nama" : "Bengkulu"}, 
+      {"nama" : "Kepahiang"}, 
+      {"nama" :"Rejang Lebong"}, 
+      {"nama" : "Bengkulu Utara"}, 
+      {"nama" : "Bengkulu Selatan"}
+    ]
+  },
+  "Lampung": {
+    "nama": "Lampung",
+    "info": { "TarianTradisional": ["Tari Melinting"], "CiriKhasLain": ["Tanjung Setia", "Gajah Lampung"] },
+    "KotaKabupaten": [
+      {"nama" : "Bandar Lampung"}, 
+      {"nama" : "Metro"}, 
+      {"nama" : "Lampung Selatan"}, 
+      {"nama" : "Lampung Tengah"}, 
+      {"nama" : "Lampung Timur"}
+    ]
+  },
+  "BangkaBelitung": {
+    "nama": "Bangka Belitung",
+    "info": { "TarianTradisional": ["Tari Campak"], "CiriKhasLain": ["Pulau Belitung", "Tambang Timah"] },
+    "KotaKabupaten": [
+      {"nama" : "Pangkal Pinang"}, 
+      {"nama" : "Belitung"}, 
+      {"nama" : "Bangka"}, 
+      {"nama" : "Bangka Barat"}, 
+      {"nama" : "Bangka Tengah"}
+    ]
+  },
+  "DKIJakarta": {
+    "nama": "DKI Jakarta",
+    "info": { "TarianTradisional": ["Tari Topeng Betawi"], "CiriKhasLain": ["Monas", "Kota Tua"] },
+    "KotaKabupaten": [
+      {"nama" : "Jakarta Pusat"}, 
+      {"nama": "Jakarta Barat"}, 
+      {"nama" : "Jakarta Selatan"}, 
+      {"nama" : "Jakarta Timur"}, 
+      {"nama" : "Jakarta Utara"}, 
+      {"nama" : "Kepulauan Seribu"}
+    ]
+  },
+  "JawaBarat": {
+    "nama": "Jawa Barat",
+    "info": { "TarianTradisional": ["Tari Jaipong", "Tari Merak", "Tari Topeng Cirebon"], "CiriKhasLain": ["Gedung Sate", "Kawah Putih", "Sunda","Angklung","Wayang Golek","Kujang"] },
+    "KotaKabupaten": [
+      {"nama" : "Bandung",
+        "deskripsi": "Bandung, atau Paris van Java, terkenal dengan fashion, kuliner, dan arsitektur kolonialnya.",
+        "wisata": [
+          "Kawah Putih",
+          "Tangkuban Perahu",
+          "jalan Braga",
+          "Floating Market Lembang"
+        ]
+      }, 
+      {"nama" : "Bogor",
+        "deskripsi": "Bogor, dijuluki 'Kota Hujan', terkenal dengan kebun raya yang luas dan udara yang sejuk, menjadikannya destinasi favorit untuk liburan singkat dari ibu kota.",
+        "wisata": [
+          "Kebun Raya Bogor",
+          "Istana Bogor",
+          "The Jungle Waterpark",
+          "Curug Cigamea"
+        ]
+      }, 
+      {"nama" : "Bekasi",
+        "deskripsi": "Bekasi adalah kota satelit yang berkembang pesat, dikenal sebagai kawasan industri utama di timur Jakarta.",
+        "wisata": [
+          "Curug Parigi",
+          "Situ Gede",
+          "Hutan Kota Bekasi"
+        ]
+      }, 
+      {"nama" : "Depok",
+        "deskripsi": "Terletak di selatan Jakarta, Depok dikenal sebagai kota pendidikan dengan banyaknya kampus ternama, serta berfungsi sebagai kawasan residensial utama.",
+        "wisata": [
+          "Masjid Kubah Emas Dian Al-Mahri",
+          "Situ Babakan",
+          "Godong Ijo"
+        ]
+      }, 
+      {"nama" : "Cirebon",
+        "deskripsi": "Cirebon merupakan kota pelabuhan yang kaya akan sejarah kesultanan, perpaduan budaya Jawa dan Sunda, serta terkenal dengan batik Mega Mendung.",
+        "wisata": [
+          "Keraton Kasepuhan",
+          "Keraton Kanoman",
+          "Goa Sunyaragi"
+        ]
+      }, 
+      {"nama" : "Karawang",
+        "deskripsi": "Karawang adalah kawasan industri padat yang strategis, sekaligus memiliki sejarah sebagai lumbung padi Jawa Barat. Karawang juga dikenal dengan jalur Pantura yang sibuk.",
+        "wisata": [
+          "Pantai Tanjung Pakis",
+          "Curug Cigentis",
+          "Danau Cipule",
+          "Goa Pindul Karawang"
+        ]
+      }
+    ]
+  },
+
+  "JawaTengah": {
+    "nama": "Jawa Tengah",
+    "info": { "TarianTradisional": ["Tari Serimpi"], "CiriKhasLain": ["Candi Borobudur", "Lawang Sewu"] },
+    "KotaKabupaten": [
+      {"nama" : "Semarang"}, 
+      {"nama" : "Surakarta (Solo)"}, 
+      {"nama" : "Yogyakarta"}, 
+      {"nama" : "Magelang"}, 
+      {"nama" : "Pekalongan"}
+    ]
+  },
+  "DIYogyakarta": {
+    "nama": "DI Yogyakarta",
+    "info": { "TarianTradisional": ["Tari Golek Menak"], "CiriKhasLain": ["Keraton Yogyakarta", "Malioboro"] },
+    "KotaKabupaten": [
+      {"nama" : "Yogyakarta"}, 
+      {"nama" : "Sleman"}, 
+      {"nama" : "Bantul"}, 
+      {"nama" : "Kulon Progo"}, 
+      {"nama" : "Gunungkidul"}
+    ]
+  },
+  "JawaTimur": {
+    "nama": "Jawa Timur",
+    "info": { "TarianTradisional": ["Tari Reog Ponorogo"], "CiriKhasLain": ["Jembatan Suramadu", "Gunung Bromo"] },
+    "KotaKabupaten": [
+      {"nama" : "Surabaya"}, 
+      {"nama" : "Malang"}, 
+      {"nama" : "Sidoarjo"}, 
+      {"nama" : "Gresik"}, 
+      {"nama" : "Banyuwangi"}, 
+      {"nama" : "Jember"}, 
+      {"nama" : "Madiun"}
+    ]
+  },
+  "Banten": {
+    "nama": "Banten",
+    "info": { "TarianTradisional": ["Tari Saman"], "CiriKhasLain": ["Ujung Kulon", "Anyer"] },
+    "KotaKabupaten": [
+      {"nama" : "Serang"}, 
+      {"nama" : "Tangerang"}, 
+      {"nama" : "Cilegon"}, 
+      {"nama" : "Lebak"}, 
+      {"nama" : "Pandeglang"}
+    ]
+  },
+  "Bali": {
+    "nama": "Bali",
+    "info": { "TarianTradisional": ["Tari Pendet", "Tari Kecak"], "CiriKhasLain": ["Pura Besakih", "Ubud"] },
+    "KotaKabupaten": [
+      {"nama" : "Denpasar"}, 
+      {"nama" : "Badung"}, 
+      {"nama" : "Gianyar"}, 
+      {"nama" : "Tabanan"}, 
+      {"nama" : "Buleleng"}
+    ]
+  },
+  "KalimantanBarat": {
+    "nama": "Kalimantan Barat",
+    "info": { "TarianTradisional": ["Tari Monong"], "CiriKhasLain": ["Sungai Kapuas", "Garis Khatulistiwa"] },
+    "KotaKabupaten": [
+      {"nama" : "Pontianak"}, 
+      {"nama" : "Singkawang"}, 
+      {"nama" : "Sintang"}, 
+      {"nama" : "Sambas"}, 
+      {"nama" : "Ketapang"}
+    ]
+  },
+  "KalimantanTengah": {
+    "nama": "Kalimantan Tengah",
+    "info": { "TarianTradisional": ["Tari Manasai"], "CiriKhasLain": ["Taman Nasional Tanjung Puting"] },
+    "KotaKabupaten": [
+      {"nama" : "Palangka Raya"}, 
+      {"nama" : "Kotawaringin Timur"}, 
+      {"nama" : "Kotawaringin Barat"}, 
+      {"nama" : "Kapuas"}, 
+      {"nama" : "Barito Selatan"}
+    ]
+  },
+  "KalimantanSelatan": {
+    "nama": "Kalimantan Selatan",
+    "info": { "TarianTradisional": ["Tari Baksa Kembang"], "CiriKhasLain": ["Pasar Terapung"] },
+    "KotaKabupaten": [
+      {"nama" : "Banjarmasin"}, 
+      {"nama" : "Banjarbaru"}, 
+      {"nama" : "Banjar"}, 
+      {"nama" : "Tanah Laut"}, 
+      {"nama" : "Tapin"}
+    ]
+  },
+  "KalimantanTimur": {
+    "nama": "Kalimantan Timur",
+    "info": { "TarianTradisional": ["Tari Gong", "Tari Hudoq"], "CiriKhasLain": ["Pulau Derawan", "Sungai Mahakam"] },
+    "KotaKabupaten": [
+      {"nama" : "Samarinda"}, 
+      {"nama" : "Balikpapan"}, 
+      {"nama" : "Bontang"}, 
+      {"nama" : "Kutai Kartanegara"}, 
+      {"nama" : "Berau"}
+    ]
+  },
+  "KalimantanUtara": {
+    "nama": "Kalimantan Utara",
+    "info": { "TarianTradisional": ["Tari Jepen"], "CiriKhasLain": ["Taman Nasional Kayan Mentarang"] },
+    "KotaKabupaten": [
+      {"nama" : "Tanjung Selor"}, 
+      {"nama" : "Tarakan"}, 
+      {"nama" : "Nunukan"}, 
+      {"nama" : "Malinau"}, 
+      {"nama" : "Tana Tidung"}
+    ]
+  },
+  "SulawesiUtara": {
+    "nama": "Sulawesi Utara",
+    "info": { "TarianTradisional": ["Tari Maengket"], "CiriKhasLain": ["Bunaken", "Gunung Lokon"] },
+    "KotaKabupaten": [
+      {"nama" : "Manado"}, 
+      {"nama" : "Bitung"}, 
+      {"nama" : "Minahasa"}, 
+      {"nama" : "Bolaang Mongondow"}, 
+      {"nama" : "Sangihe"}
+    ]
+  },
+  "Gorontalo": {
+    "nama": "Gorontalo",
+    "info": { "TarianTradisional": ["Tari Dana-Dana"], "CiriKhasLain": ["Pulau Saronde"] },
+    "KotaKabupaten": [
+      {"nama" : "Gorontalo"}, 
+      {"nama" : "Boalemo"}, 
+      {"nama" : "Bone Bolango"}, 
+      {"nama" : "Pohuwato"}, 
+      {"nama" : "Gorontalo Utara"}
+    ]
+  },
+  "SulawesiTengah": {
+    "nama": "Sulawesi Tengah",
+    "info": { "TarianTradisional": ["Tari Dero"], "CiriKhasLain": ["Danau Poso"] },
+    "KotaKabupaten": [
+      {"nama" : "Palu"}, 
+      {"nama" : "Donggala"}, 
+      {"nama" : "Sigi"}, 
+      {"nama" : "Poso"}, 
+      {"nama" : "Toli-Toli"}
+    ]
+  },
+  "SulawesiBarat": {
+    "nama": "Sulawesi Barat",
+    "info": { "TarianTradisional": ["Tari Pattudu"], "CiriKhasLain": ["Mandar", "Pantai Manakarra"] },
+    "KotaKabupaten": [
+      {"nama" : "Mamuju"}, 
+      {"nama" : "Majene"}, 
+      {"nama" : "Polewali Mandar"}, 
+      {"nama" : "Pasangkayu"}, 
+      {"nama" : "Mamasa"}
+    ]
+  },
+  "SulawesiSelatan": {
+    "nama": "Sulawesi Selatan",
+    "info": { "TarianTradisional": ["Tari Kipas Pakarena"], "CiriKhasLain": ["Pantai Losari", "Tana Toraja"] },
+    "KotaKabupaten": [
+      {"nama" : "Makassar"}, 
+      {"nama" : "Parepare"}, 
+      {"nama" : "Palopo"}, 
+      {"nama" : "Gowa"}, 
+      {"nama" : "Bone"}
+    ]
+  },
+  "SulawesiTenggara": {
+    "nama": "Sulawesi Tenggara",
+    "info": { "TarianTradisional": ["Tari Lulo"], "CiriKhasLain": ["Wakatobi", "Pulau Labengki"] },
+    "KotaKabupaten": [
+      {"nama" : "Kendari"}, 
+      {"nama" : "Bau-Bau"}, 
+      {"nama" : "Muna"}, 
+      {"nama" : "Kolaka"}, 
+      {"nama" : "Konawe"}
+    ]
+  },
+  "NusaTenggaraBarat": {
+    "nama": "Nusa Tenggara Barat",
+    "info": { "TarianTradisional": ["Tari Lenggo"], "CiriKhasLain": ["Gunung Rinjani", "Mandalika"] },
+    "KotaKabupaten": [
+      {"nama" : "Mataram"}, 
+      {"nama" : "Lombok Tengah"}, 
+      {"nama" : "Lombok Barat"}, 
+      {"nama" : "Sumbawa"}, 
+      {"nama" : "Bima"}
+    ]
+  },
+  "NusaTenggaraTimur": {
+    "nama": "Nusa Tenggara Timur",
+    "info": { "TarianTradisional": ["Tari Caci"], "CiriKhasLain": ["Pulau Komodo", "Danau Kelimutu"] },
+    "KotaKabupaten": [
+      {"nama" : "Kupang"}, 
+      {"nama" : "Flores Timur"}, 
+      {"nama" : "Sumba Barat"}, 
+      {"nama" : "Alor"}, 
+      {"nama" : "Rote Ndao"}
+    ]
+  },
+  "Maluku": {
+    "nama": "Maluku",
+    "info": { "TarianTradisional": ["Tari Lenso"], "CiriKhasLain": ["Benteng Amsterdam"] },
+    "KotaKabupaten": [
+      {"nama" : "Ambon"}, 
+      {"nama" : "Tual"}, 
+      {"nama" : "Seram Bagian Barat"}, 
+      {"nama" : "Maluku Tengah"}, 
+      {"nama" : "Kepulauan Aru"}
+    ]
+  },
+  "MalukuUtara": {
+    "nama": "Maluku Utara",
+    "info": { "TarianTradisional": ["Tari Tide-Tide"], "CiriKhasLain": ["Pulau Ternate", "Pulau Tidore"] },
+    "KotaKabupaten": [
+      {"nama" : "Ternate"}, 
+      {"nama" : "Tidore Kepulauan"}, 
+      {"nama" : "Halmahera Barat"}, 
+      {"nama" : "Halmahera Utara"}, 
+      {"nama" : "Morotai"}
+    ]
+  },
+  "Papua": {
+    "nama": "Papua",
+    "info": { "TarianTradisional": ["Tari Yospan"], "CiriKhasLain": ["Puncak Jaya", "Danau Sentani"] },
+    "KotaKabupaten": [
+      {"nama" : "Jayapura"}, 
+      {"nama" : "Merauke"}, 
+      {"nama" : "Mimika"}, 
+      {"nama" : "Jayawijaya"}, 
+      {"nama" : "Biak Numfor"}
+    ]
+  },
+  "PapuaBarat": {
+    "nama": "Papua Barat",
+    "info": { "TarianTradisional": ["Tari Perang"], "CiriKhasLain": ["Raja Ampat"] },
+    "KotaKabupaten": [
+      {"nama" : "Manokwari"}, 
+      {"nama" : "Sorong"}, 
+      {"nama" : "Fakfak"}, 
+      {"nama" : "Kaimana"}, 
+      {"nama" : "Raja Ampat"}
+    ]
+  },
+  "PapuaSelatan": {
+    "nama": "Papua Selatan",
+    "info": { "TarianTradisional": ["Tari Yospan"], "CiriKhasLain": ["Taman Nasional Wasur"] },
+    "KotaKabupaten": [
+      {"nama" : "Merauke"}, 
+      {"nama" : "Boven Digoel"}, 
+      {"nama" : "Mappi"}, 
+      {"nama" : "Asmat"}
+    ]
+  },
+  "PapuaTengah": {
+    "nama": "Papua Tengah",
+    "info": { "TarianTradisional": ["Tari Yospan"], "CiriKhasLain": ["Puncak Cartenz"] },
+    "KotaKabupaten": [
+      {"nama" : "Nabire"}, 
+      {"nama" : "Paniai"}, 
+      {"nama" : "Mimika"}, 
+      {"nama" : "Puncak"}, 
+      {"nama" : "Dogiyai"}
+    ]
+  },
+  "PapuaPegunungan": {
+    "nama": "Papua Pegunungan",
+    "info": { "TarianTradisional": ["Tari Yospan"], "CiriKhasLain": ["Lembah Baliem"] },
+    "KotaKabupaten": [
+      {"nama" : "Wamena"}, 
+      {"nama" : "Lanny Jaya"}, 
+      {"nama" : "Nduga"}, 
+      {"nama" : "Tolikara"}, 
+      {"nama" : "Yahukimo"}
+    ]
+  },
+  "PapuaBaratDaya": {
+    "nama": "Papua Barat Daya",
+    "info": { "TarianTradisional": ["Tari Perang"], "CiriKhasLain": ["Raja Ampat"] },
+    "KotaKabupaten": [
+      {"nama" : "Sorong"}, 
+      {"nama" : "Sorong Selatan"}, 
+      {"nama" : "Tambrauw"}, 
+      {"nama" :  "Maybrat"}, 
+      {"nama" : "Raja Ampat"}
+    ]
+  }
+}
